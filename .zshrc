@@ -1,8 +1,8 @@
 
 # start ssh agent
 plugins=(git ssh-agent)
-eval `ssh-agent -s`
-eval 'clear'
+# eval `ssh-agent -s`
+# eval 'clear'
 
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
