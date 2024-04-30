@@ -101,3 +101,10 @@ fi
 
 # Github ssh stuff
 eval ``keychain --eval --agents ssh id_rsa
+
+# Nvim Stuff
+export PATH="$PATH:/opt/nvim-linux64/bin"
+
+# Android
+export ANDROID_HOME=/mnt/c/Users/charl/AppData/Local/Android/Sdk
+export WSLENV=ANDROID_HOME/p
