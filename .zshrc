@@ -29,3 +29,7 @@ source ~/.nvm/nvm.sh
 # Android
 export ANDROID_HOME=/mnt/c/Users/charl/AppData/Local/Android/Sdk
 export WSLENV=ANDROID_HOME/
+
+# WSL Host Patcher 
+# This program fixes Expo on WSL2 not being able to host locally and needing to tunnel.
+~/wsl/WSLHostPatcher.exe
