@@ -32,4 +32,4 @@ export WSLENV=ANDROID_HOME/
 
 # WSL Host Patcher 
 # This program fixes Expo on WSL2 not being able to host locally and needing to tunnel.
-~/wsl/WSLHostPatcher.exe
+# ~/wsl/WSLHostPatcher.exe
